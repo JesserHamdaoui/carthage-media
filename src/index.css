@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.particles {
+  background-image: url(/src//assets/particles.svg);
+}
+
+.stroke {
+  text-shadow: #f8fafc 1px 0;
+}

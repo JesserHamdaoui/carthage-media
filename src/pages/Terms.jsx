@@ -5,7 +5,7 @@ const Terms = () => {
   return (
     <>
       <div className=" bg-gradient-to-br from-orange-200 to-orange-100 relative">
-        <div className="max-w-5xl mx-auto">
+        <div className="max-w-5xl lg:mx-auto mx-10">
           <h2 className="py-32 text-6xl font-extrabold italic">
             Terms & Conditions
           </h2>
@@ -13,7 +13,7 @@ const Terms = () => {
         <LowerCurve />
       </div>
       <div className="bg-slate-50 ">
-        <div className="max-w-6xl mx-auto pt-10 pb-16 flex flex-col gap-5">
+        <div className="max-w-6xl lg:mx-auto mx-5  pt-10 pb-16 flex flex-col gap-5">
           <p className="underline">Last updated: 13th August 2023</p>
           <p>
             Please read these Terms and Conditions ("Terms", "Terms and

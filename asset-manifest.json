@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.30e632b6.css",
-    "main.js": "/static/js/main.6d8323d1.js",
+    "main.css": "/static/css/main.24ab2758.css",
+    "main.js": "/static/js/main.ffe641bc.js",
     "static/media/excavator.jpg": "/static/media/excavator.2c1e9459468e04078335.jpg",
     "static/media/logo.png": "/static/media/logo.1f1e4d8f8bc32d6c3c09.png",
     "static/media/service5.png": "/static/media/service5.c8d638f0b9da5a249202.png",
@@ -15,11 +15,11 @@
     "static/media/excavator2.svg": "/static/media/excavator2.edeaa353d57c587cd90a3a9bbcf3a892.svg",
     "static/media/excavator1.svg": "/static/media/excavator1.0cb67f6dc9b80b2ceb5880e0b5c57bb0.svg",
     "index.html": "/index.html",
-    "main.30e632b6.css.map": "/static/css/main.30e632b6.css.map",
-    "main.6d8323d1.js.map": "/static/js/main.6d8323d1.js.map"
+    "main.24ab2758.css.map": "/static/css/main.24ab2758.css.map",
+    "main.ffe641bc.js.map": "/static/js/main.ffe641bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.30e632b6.css",
-    "static/js/main.6d8323d1.js"
+    "static/css/main.24ab2758.css",
+    "static/js/main.ffe641bc.js"
   ]
 }

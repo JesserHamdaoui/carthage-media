@@ -1,7 +1,7 @@
 window.env = {
   "ALLUSERSPROFILE": "C:\\ProgramData",
   "APPDATA": "C:\\Users\\hamda\\AppData\\Roaming",
-  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_20552_RNTYWNMQHSTQRJCF",
+  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_7436_PFVAXIGICOUUSUIW",
   "COLOR": "1",
   "COLORTERM": "truecolor",
   "CommonProgramFiles": "C:\\Program Files\\Common Files",
@@ -11,7 +11,7 @@ window.env = {
   "ComSpec": "C:\\Windows\\system32\\cmd.exe",
   "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
   "EDITOR": "C:\\Windows\\notepad.exe",
-  "EFC_27816": "1",
+  "EFC_9652": "1",
   "GIT_ASKPASS": "c:\\Users\\hamda\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\git\\dist\\askpass.sh",
   "HOME": "C:\\Users\\hamda",
   "HOMEDRIVE": "C:",

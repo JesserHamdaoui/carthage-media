@@ -11,7 +11,7 @@ const Policies = () => {
           <Link to="/policy">Privacy Policy</Link>
         </li>
         <li>
-          <Link to="/terms">Terms & Consitions</Link>
+          <Link to="/terms">Terms & Conditions</Link>
         </li>
       </ul>
     </div>

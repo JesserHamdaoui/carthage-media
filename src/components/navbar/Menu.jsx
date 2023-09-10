@@ -20,7 +20,7 @@ const Menu = ({ display }) => {
           <a
             href="https://calendly.com/carthagemedia/call"
             target="_blank"
-            className="uppercase text-orange-400 text-xl font-extrabold hover:text-blue-950 transition-all"
+            className="uppercase text-orange-400 text-xl font-extra bold hover:text-blue-950 transition-all"
             onClick={() => {
               if (setIsOpen) {
                 setIsOpen(false);

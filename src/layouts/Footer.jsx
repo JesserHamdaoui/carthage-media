@@ -9,15 +9,13 @@ const Footer = () => {
 
         <hr />
 
-        <p className="text-white py-5 pl-6">
+        <p className="text-white py-5 px-6 text-center lg:text-left lg:pl-3 ">
           <b>Carthage Media</b> | All Rights Reserved | All Wrongs Reversed
         </p>
 
         <hr />
 
-        <p className="text-white py-2 pl-6 text-center">
-          © 2023 Carthage Media
-        </p>
+        <p className="text-white py-2 text-center">© 2023 Carthage Media</p>
       </div>
     </div>
   );

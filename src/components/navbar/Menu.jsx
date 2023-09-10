@@ -1,7 +1,11 @@
 import React from "react";
 import NavLink from "./NavLink";
+import { IsOpenContext } from "../../context/IsOpenContext";
+import { useContext } from "react";
 
 const Menu = ({ display }) => {
+  const setIsOpen = useContext(IsOpenContext);
+
   return (
     <div
       className={`shadow-md ${display} p-10 rounded-lg opacity-90 bg-slate-50 absolute top-20 right-0`}
@@ -14,8 +18,14 @@ const Menu = ({ display }) => {
         <hr class="w-48 h-1 opacity-50 mx-auto my-2 bg-blue-950 border-0 rounded" />
         <li>
           <a
-            href="#"
-            className="uppercase text-orange-400 text-lg font-bold hover:text-blue-950 transition-all "
+            href="https://calendly.com/carthagemedia/call"
+            target="_blank"
+            className="uppercase text-orange-400 text-xl font-extrabold hover:text-blue-950 transition-all"
+            onClick={() => {
+              if (setIsOpen) {
+                setIsOpen(false);
+              }
+            }}
           >
             Book a call
           </a>

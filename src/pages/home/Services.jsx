@@ -52,7 +52,7 @@ const Services = () => {
           />
           <Card
             img={service3}
-            title="Google Reviews Campaigns"
+            title="Reviews Campaigns"
             text="Earn trust one review at a time. We bolster your online reputation, encouraging positive reviews that spotlight your excavating excellence."
             delay="450"
           />

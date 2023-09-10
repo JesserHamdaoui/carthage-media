@@ -15,7 +15,7 @@ const Book = () => {
 
   return (
     <div className="bg-slate-50 lg:bg-gradient-radial lg:from-orange-200 lg:via-slate-50 lg:to-slate-50 relative pt-28">
-      <div className=" max-w-6xl flex flex-col lg:mx-auto items-center pt-16 gap-10 justify-between mx-10 px-5">
+      <div className=" max-w-6xl flex flex-col lg:mx-auto items-center pt-16 gap-10 justify-between mx-10 px-5 -mb-44 lg:mb-0">
         <h2
           className="uppercase text-orange-400 text-3xl md:text-6xl font-semibold text-center stroke"
           data-aos="fade-up"

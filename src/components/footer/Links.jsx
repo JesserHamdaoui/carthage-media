@@ -1,4 +1,5 @@
 import React from "react";
+import FooterLink from "./FooterLink";
 
 const Links = () => {
   return (
@@ -6,18 +7,10 @@ const Links = () => {
       <h3 className="text-xl font-semibold">Links</h3>
       <hr className="my-4 w-20 rounded-lg" />
       <ul className="underline text-base">
-        <li>
-          <a href="#">Welcome</a>
-        </li>
-        <li>
-          <a href="#">About Us</a>
-        </li>
-        <li>
-          <a href="#">Our Services</a>
-        </li>
-        <li>
-          <a href="#">Message us</a>
-        </li>
+        <FooterLink text="Home" section="home" offset={-100} />
+        <FooterLink text="About us" section="about-us" offset={-60} />
+        <FooterLink text="Services" section="services" offset={0} />
+        <FooterLink text="Contact" section="contact" offset={0} />
       </ul>
     </div>
   );

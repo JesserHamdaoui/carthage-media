@@ -1,9 +1,18 @@
 import React from "react";
 import LowerCurve from "../components/LowerCurve";
+import { Helmet } from "react-helmet-async";
 
 const Terms = () => {
   return (
     <>
+      <Helmet>
+        <title>Carthage Media - Terms</title>
+        <meta
+          name="description"
+          content="Carthage Media offers comprehensive digital marketing solutions to excavation contractors, including SEO, PPC, social media management, web design, and reputation management. Boost your business growth today."
+        ></meta>
+        <Link rel="canonical" href="/terms" />
+      </Helmet>
       <div className=" bg-gradient-to-br from-orange-200 to-orange-100 relative">
         <div className="max-w-5xl lg:mx-auto mx-10">
           <h2 className="py-32 text-6xl font-extrabold italic">

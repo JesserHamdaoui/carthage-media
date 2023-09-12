@@ -15,7 +15,7 @@ const Home = () => {
           name="description"
           content="Carthage Media offers comprehensive digital marketing solutions to excavation contractors, including SEO, PPC, social media management, web design, and reputation management. Boost your business growth today."
         ></meta>
-        <Link rel="canonical" href="/" />
+        <link rel="canonical" href="/" />
       </Helmet>
       <Hero />
       <AboutUs />

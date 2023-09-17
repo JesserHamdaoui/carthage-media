@@ -39,6 +39,7 @@ const Book = () => {
           styles={{
             height: "1000px",
             width: windowWidth < 1200 ? "auto" : "1000px",
+            zIndex: 1000,
           }}
         />
       </div>

@@ -125,7 +125,7 @@ const Contact = () => {
                   label="Message*"
                   name="message"
                   as="textarea"
-                  placeholder="Enter your message name"
+                  placeholder="Enter your message"
                   style={{ height: 150, resize: "none" }}
                 />
 

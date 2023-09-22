@@ -109,7 +109,7 @@ const Contact = () => {
                     name="email"
                     as="input"
                     type="text"
-                    placeholder="Enter your email name"
+                    placeholder="Enter your email"
                   />
 
                   <CustomInput
@@ -117,7 +117,7 @@ const Contact = () => {
                     name="phoneNumber"
                     as="input"
                     type="text"
-                    placeholder="Enter your phone number name"
+                    placeholder="Enter your phone number"
                   />
                 </div>
 

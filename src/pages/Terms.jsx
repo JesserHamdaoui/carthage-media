@@ -1,6 +1,7 @@
 import React from "react";
 import LowerCurve from "../components/LowerCurve";
 import { Helmet } from "react-helmet-async";
+import { Link } from "react-router-dom";
 
 const Terms = () => {
   return (
@@ -141,9 +142,9 @@ const Terms = () => {
               contact you, provide services, and improve our offerings. We are
               committed to safeguarding your privacy and using your data
               responsibly. For more details, please refer to our{" "}
-              <a className="underline text-orange-900" href="#">
+              <Link className="underline text-orange-900" to="/policy">
                 Privacy Policy
-              </a>
+              </Link>
               .
             </p>
           </div>
@@ -203,7 +204,7 @@ const Terms = () => {
               copyright, please contact us at{" "}
               <a
                 className="underline text-orange-900"
-                href="mailto:support@carthagemedia.com"
+                href="mailto:mouna@carthagemedia.com"
               >
                 support@carthagemedia.com
               </a>
@@ -250,7 +251,7 @@ const Terms = () => {
               and Conditions, please contact us via email at{" "}
               <a
                 className="underline text-orange-900"
-                href="mailto:support@carthagemedia.com"
+                href="mailto:mouna@carthagemedia.com"
               >
                 support@carthagemedia.com
               </a>

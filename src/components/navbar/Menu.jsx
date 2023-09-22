@@ -20,6 +20,7 @@ const Menu = ({ display }) => {
           <a
             href="https://calendly.com/carthagemedia/call"
             target="_blank"
+            rel="noreferrer"
             className="uppercase text-orange-400 text-xl font-extra bold hover:text-blue-950 transition-all"
             onClick={() => {
               if (setIsOpen) {

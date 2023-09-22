@@ -80,6 +80,7 @@ const Services = () => {
         src={exclavator2}
         className=" h-48 absolute bottom-0 right-28 hidden lg:block "
         data-aos="fade-left"
+        alt="carthage media excavator"
       />
     </div>
   );

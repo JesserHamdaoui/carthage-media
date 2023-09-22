@@ -40,6 +40,7 @@ const AboutUs = () => {
               <a
                 href="https://calendly.com/carthagemedia/call"
                 target="_blank"
+                rel="noreferrer"
                 className="uppercase py-2 px-3 bg-stone-950 text-white text-lg font-bold rounded-2xl  hover:bg-blue-950 cursor-pointer transition-all duration-100 xl:text-xl lg:text-sm text-center inline-flex items-center"
               >
                 <FaHandshake className="inline mr-5 text-4xl" />

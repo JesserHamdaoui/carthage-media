@@ -47,6 +47,7 @@ const Book = () => {
         src={exclavator3}
         className="h-44 absolute bottom-0 left-32 hidden lg:block"
         data-aos="fade-right"
+        alt="carthage media excavator"
       />
     </div>
   );
